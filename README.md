@@ -1,8 +1,8 @@
 # Hi, I'm SoyCodeTrail 👋
 
 - 💻 Android Developer
-- 📱 Focus on System / Launcher / Framework
-- 🌱 Currently learning: LLM & AI
+- 📱 Focus on Android / Launcher / Framework
+- 🌱 Currently learning: LLM Agents
 - 📍 Xi'an, China
 
 ## 📫 Contact
