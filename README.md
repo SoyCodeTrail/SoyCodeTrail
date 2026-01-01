@@ -5,7 +5,7 @@
 <h2>👋 Hi, I'm SoyCodeTrail</h2>
 
 <ul>
-  <li>📱 <b>Android Developer</b></li>
+  <li>📱 <b>Android System Developer</b></li>
   <li>🧩 Focus on <b>Launcher / Framework</b></li>
   <li>🌱 Currently learning: <b>LLM Agents</b></li>
   <li>📍 Xi'an, China</li>
