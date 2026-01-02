@@ -6,8 +6,8 @@
 
 <p>
 📱 <b>Android/LLM applications developer</b><br/>
-🧩 Focus on <b>Android:Launcher/Framework LLM:Agent/RAG/MCP/Skills</b><br/>
-🌱 Currently learning: <b>LLM Agents</b><br/>
+🧩 Focus on <b>Launcher/Framework</b><br/>
+🌱 Currently learning: <b> LLM: Agent/RAG/MCP/Skills</b><br/>
 📍 Xi'an, China
 </p>
 
