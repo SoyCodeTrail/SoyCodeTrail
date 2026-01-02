@@ -15,7 +15,7 @@
 
 ### 📫 Contact
 - Email: dounaichengxumao@gmail.com  
-- Blog: 小红书 <b>「豆奶与程序猫」</b>
+- Blog: <a href="https://www.xiaohongshu.com/user/profile/619b77a300000000210204d1" target="_blank"><b>小红书 · 豆奶与程序猫</b></a>
 
 </td>
 
