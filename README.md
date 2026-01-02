@@ -16,6 +16,7 @@
 ### 📫 Contact
 - Email: dounaichengxumao@gmail.com  
 - Blog: <a href="https://www.xiaohongshu.com/user/profile/619b77a300000000210204d1" target="_blank"><b>小红书 · 豆奶与程序猫</b></a>
+- 💬 Ask me about anything <a href="https://github.com/soycodetrail/soycodetrail/issues" target="_blank"><b>here</b></a>
 
 </td>
 
